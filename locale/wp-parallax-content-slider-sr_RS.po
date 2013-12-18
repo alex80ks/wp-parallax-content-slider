@@ -1,0 +1,492 @@
+# Dec Vasić Aleksandar <alex80ks@gmail.com>, 2013.
+# Vasić Aleksandar <alex80ks@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-parallax-content-slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-13 22:43+0100\n"
+"PO-Revision-Date: 2013-12-18 20:53+0100\n"
+"Last-Translator: Vasić Aleksandar <alex80ks@gmail.com>\n"
+"Language-Team: Александар Васић <alex80ks@gmail.com>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/static-slides-sample.php:16
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:304
+#: ../static-slides-sample.php:16 ../wp-parallax-content-slider.php:304
+msgid "Read more"
+msgstr "Детаљније"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:315
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:316
+#: ../wp-parallax-content-slider.php:315 ../wp-parallax-content-slider.php:316
+msgid "WP Parallax Content Slider"
+msgstr "WP Parallax Content Slider"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:330
+#: ../wp-parallax-content-slider.php:330
+msgid "No access"
+msgstr "Немате приступ"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:343
+#: ../wp-parallax-content-slider.php:343
+msgid "Incorrect slider mode"
+msgstr "Погрешан режим слајдера"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:348
+#: ../wp-parallax-content-slider.php:348
+msgid "Incorrect slider theme"
+msgstr "Погрешна тема слајдера"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:353
+#: ../wp-parallax-content-slider.php:353
+msgid "Incorrect background increment pixel size"
+msgstr "Погрешна величина пиксела за увећање позадине"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:358
+#: ../wp-parallax-content-slider.php:358
+msgid "Incorrect time interval"
+msgstr "Погрешан временски интервал"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:364
+#: ../wp-parallax-content-slider.php:364
+msgid "Incorrect first slide number"
+msgstr "Погрешан број првог слајда"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:371
+#: ../wp-parallax-content-slider.php:371
+msgid "Incorrect maximum slide number"
+msgstr "Погрешан максимални број слајдера"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:376
+#: ../wp-parallax-content-slider.php:376
+msgid "Incorrect maximum title length"
+msgstr "Погрешна дужина наслова"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:381
+#: ../wp-parallax-content-slider.php:381
+msgid "Incorrect default image"
+msgstr "Погрешна подразумевана слика"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:416
+#: ../wp-parallax-content-slider.php:416
+msgid "Settings updated"
+msgstr "Поставке сачуване"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:420
+#: ../wp-parallax-content-slider.php:420
+msgid "Settings update failed:"
+msgstr "Неуспело чување поставки:"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:452
+#: ../wp-parallax-content-slider.php:452
+msgid "WP Parallax Content Slider Settings"
+msgstr "Поставке за WP Parallax Content Slider "
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:456
+#: ../wp-parallax-content-slider.php:456
+msgid ""
+"This plugin is continuing to evolve because of contributions from Wordpress "
+"users like you. Thank you. If you found this plugin useful, especially if "
+"you use it for commercial purposes, feel free to make a"
+msgstr ""
+"Овај додатак наставља развој због доприноса Вордпрес корисника попут Вас. "
+"Хвала. Ако сматрате овај додатак корисним, нарочито ако га користите у "
+"комерцијалне сврхе, Ваше донације су добродошле."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:458
+#: ../wp-parallax-content-slider.php:458
+msgid "donation"
+msgstr "Донација"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:460
+#: ../wp-parallax-content-slider.php:460
+msgid ""
+"Your support helps me to spend more time on development and provide better "
+"customer service."
+msgstr ""
+"Ваша подршка ми помаже да више времена посветим развоју додатка и пружим "
+"бољу услугу корисницима."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:464
+#: ../wp-parallax-content-slider.php:464
+msgid "Alternatively, if you like this plugin, don't hesitate to "
+msgstr ""
+"Или, ако Вам се свиђа овај додатак,не оклевајте да га поделите са другима "
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:466
+#: ../wp-parallax-content-slider.php:466
+msgid "spread the word"
+msgstr "поделите са светом"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:468
+#: ../wp-parallax-content-slider.php:468
+msgid "about it on Twitter, on Facebook,on your own blog,"
+msgstr "о додатку на Твитеру, Фејсбуку, или на Вашем блогу,"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:470
+#: ../wp-parallax-content-slider.php:470
+msgid "rate it"
+msgstr "Оцените додатак"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:472
+#: ../wp-parallax-content-slider.php:472
+msgid "on Wordpress.org, thanks!"
+msgstr " на Wordpress.org, хвала!"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:477
+#: ../wp-parallax-content-slider.php:477
+msgid "Code to insert"
+msgstr "Код за убацање"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:478
+#: ../wp-parallax-content-slider.php:478
+msgid ""
+"The code below must be inserted in a Wordpress file, where you want to "
+"display the parallax content slider:"
+msgstr ""
+"Код испод мора бити убачен у Вордпресову датотеку тамо где желите приказати "
+"Паралакс слајдер:"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:484
+#: ../wp-parallax-content-slider.php:484
+msgid ""
+"Since v0.9, an alternative is to call the plugin with a shortcode. Doing "
+"this, you will be able to include the slider inside a page or inside a blog "
+"post:"
+msgstr ""
+"Од верзије 0.9, постоји и алтернативно решење активације додатка помоћу "
+"шорткода. Користећи шорткод, моћи ћете поставити слајдер унутар стране или "
+"чланка: "
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:497
+#: ../wp-parallax-content-slider.php:497
+msgid "General Display Options"
+msgstr "Опште опције приказа"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:501
+#: ../wp-parallax-content-slider.php:501
+msgid "Slider display mode"
+msgstr "Режим приказа слајдера"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:504
+#: ../wp-parallax-content-slider.php:504
+msgid "Dynamic : display last posts"
+msgstr "Динамички : приказ најновијих чланака"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:505
+#: ../wp-parallax-content-slider.php:505
+msgid "Static : display static HTML content"
+msgstr "Статички: прикажи статички ХТМЛ садржај"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:511
+#: ../wp-parallax-content-slider.php:511
+msgid "Number of pixels for background increment"
+msgstr "Број пиксела за увећање позадине."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:514
+#: ../wp-parallax-content-slider.php:514
+msgid "A negative value will invert the parallax effect"
+msgstr "Негативна вредност ће обрнути паралакс ефекте"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:519
+#: ../wp-parallax-content-slider.php:519
+msgid "Auto-play mode"
+msgstr "Аутоматски режим"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:522
+#: ../wp-parallax-content-slider.php:522
+msgid "Activate auto-play"
+msgstr "Активирајте аутоматски режим"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:527
+#: ../wp-parallax-content-slider.php:527
+msgid "Time between each slide (in ms)"
+msgstr "Време између слајдова (у милисекундама)"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:534
+#: ../wp-parallax-content-slider.php:534
+msgid "Slider theme"
+msgstr "Тема слајдера"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:537
+#: ../wp-parallax-content-slider.php:537
+msgid "Default : Yellow waves"
+msgstr "Подразумевана: Жути таласи"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:538
+#: ../wp-parallax-content-slider.php:538
+msgid "Dark"
+msgstr "Тамна"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:539
+#: ../wp-parallax-content-slider.php:539
+msgid "Retro Red"
+msgstr "Ретро црвена"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:540
+#: ../wp-parallax-content-slider.php:540
+msgid "Silver"
+msgstr "Сребрна"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:550
+#: ../wp-parallax-content-slider.php:550
+msgid "Static Mode Display Options"
+msgstr "Опције статичког режима приказа"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:554
+#: ../wp-parallax-content-slider.php:554
+msgid "Index of the first slide to display"
+msgstr "Индеџ за приказивање првог слајда"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:565
+#: ../wp-parallax-content-slider.php:565
+msgid "Dynamic Mode Display Options"
+msgstr "Опције динамичког режима приказа"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:569
+#: ../wp-parallax-content-slider.php:569
+msgid "Content type"
+msgstr "Врста садржаја"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:572
+#: ../wp-parallax-content-slider.php:572
+msgid "Posts"
+msgstr "Чланци"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:573
+#: ../wp-parallax-content-slider.php:573
+msgid "Pages"
+msgstr "Стране"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:574
+#: ../wp-parallax-content-slider.php:574
+msgid "Post and pages"
+msgstr "Чланци и стране"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:576
+#: ../wp-parallax-content-slider.php:576
+msgid "Choose what type of content you want to see in the slider"
+msgstr "Изаберите тип садржаја који желите видети у слајдеру"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:581
+#: ../wp-parallax-content-slider.php:581
+msgid "Number of articles to display"
+msgstr "Број чланака за приказ"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:584
+#: ../wp-parallax-content-slider.php:584
+msgid "Maximum number of articles to display in the dynamic slider"
+msgstr "Максимални број чланака за приказ у динамичком слајдеру"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:589
+#: ../wp-parallax-content-slider.php:589
+msgid "Sort posts by"
+msgstr "Сортирај по"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:592
+#: ../wp-parallax-content-slider.php:592
+msgid "Date"
+msgstr "Датуму"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:593
+#: ../wp-parallax-content-slider.php:593
+msgid "Random"
+msgstr "Насумично"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:594
+#: ../wp-parallax-content-slider.php:594
+msgid "Title"
+msgstr "Наслову"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:595
+#: ../wp-parallax-content-slider.php:595
+msgid "Author"
+msgstr "Аутору"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:596
+#: ../wp-parallax-content-slider.php:596
+msgid "Number of comments"
+msgstr "Броју коментара "
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:597
+#: ../wp-parallax-content-slider.php:597
+msgid "Last modified date"
+msgstr "Датуму последње измене"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:599
+#: ../wp-parallax-content-slider.php:599
+msgid "Choose how do you want to sort the posts in the slider"
+msgstr "Изаберите како желите сортирати чланке у слајдеру"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:604
+#: ../wp-parallax-content-slider.php:604
+msgid "Sort order"
+msgstr "Редослед"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:607
+#: ../wp-parallax-content-slider.php:607
+msgid "Ascending"
+msgstr "Растући"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:608
+#: ../wp-parallax-content-slider.php:608
+msgid "Descending"
+msgstr "Опадајући"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:610
+#: ../wp-parallax-content-slider.php:610
+msgid "Choose how do you want to order the posts in the slider"
+msgstr "Изаберите жељени редослед чланака у слајдеру"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:615
+#: ../wp-parallax-content-slider.php:615
+msgid "Category filter"
+msgstr "Филтер категорија"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:618
+#: ../wp-parallax-content-slider.php:618
+msgid "Only display posts of chosen categories"
+msgstr "Прикажи само чланке изабране категорије"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:623
+#: ../wp-parallax-content-slider.php:623
+msgid "Categories to display"
+msgstr "Категорије за приказ"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:646
+#: ../wp-parallax-content-slider.php:646
+msgid ""
+"Categories to display (multiple selection). Empty selection will display all "
+"categories."
+msgstr ""
+"Категорије за приказ (вишеструка селекција). Ако је селектовано поље празно, "
+"биће приказане све категорије."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:651
+#: ../wp-parallax-content-slider.php:651
+msgid "Slide title max length"
+msgstr "Максимална дужина наслова слајда."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:654
+#: ../wp-parallax-content-slider.php:654
+msgid "Maximum number of characters to display in a dynamic slide title"
+msgstr "Максималан број карактера за приказ наслова на динамичком слајду."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:659
+#: ../wp-parallax-content-slider.php:659
+msgid "Default image"
+msgstr "Подразумевана слика"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:662
+#: ../wp-parallax-content-slider.php:662
+msgid "Name of the default image to display for posts without thumbnail"
+msgstr "Назив подразумеване слике за приказ чланака без слика"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:666
+#: ../wp-parallax-content-slider.php:666
+msgid "Displayed text"
+msgstr "Приказани текст"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:669
+#: ../wp-parallax-content-slider.php:669
+msgid "Content"
+msgstr "Садржај"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:670
+#: ../wp-parallax-content-slider.php:670
+msgid "Excerpt"
+msgstr "Сажетак"
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:672
+#: ../wp-parallax-content-slider.php:672
+msgid ""
+"Choose if you want to display the full content or the excerpt in the slider"
+msgstr "Одаберите желите ли приказати цео садржај или само сажетак у слајдеру."
+
+#: C:\Program Files
+#: (x86)\EasyPHP-12.1\www\wordpress\wp-content\plugins\wp-parallax-content-slider/wp-parallax-content-slider.php:679
+#: ../wp-parallax-content-slider.php:679
+msgid "Save Changes"
+msgstr "Сачувајте измене"
